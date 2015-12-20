@@ -1,4 +1,4 @@
-# `beep` for OSX
+# `beep` for OS X
 
 > Because Apple decided retina screens are more valuable than hardware speakers (_scoff_)
 

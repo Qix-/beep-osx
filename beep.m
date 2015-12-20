@@ -1,4 +1,4 @@
-// Beep for OSX
+// Beep for OS X
 // Adapted by Josh Junon
 // Originally written by admsyn (thanks!)
 // http://stackoverflow.com/a/14478420
